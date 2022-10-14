@@ -150,8 +150,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/gaozhe/CLionProjects/learn_c/cmake-build-debug",
-		"source" : "/Users/gaozhe/CLionProjects/learn_c"
+		"build" : "/Users/gaozhe/CLionProjects/learn-c/cmake-build-debug",
+		"source" : "/Users/gaozhe/CLionProjects/learn-c"
 	},
 	"version" : 
 	{

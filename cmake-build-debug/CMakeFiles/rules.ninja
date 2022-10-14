@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: learn_c
+# Project: learn-c
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__C_PLUS_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/gaozhe/CLionProjects/learn_c -B/Users/gaozhe/CLionProjects/learn_c/cmake-build-debug
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/gaozhe/CLionProjects/learn-c -B/Users/gaozhe/CLionProjects/learn-c/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

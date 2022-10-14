@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c/cmake-build-debug"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -795,7 +795,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "learn_c"
+			"value" : "learn-c"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1078,7 +1078,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "C_PLUS_BINARY_DIR",
+			"name" : "learn-c_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1087,10 +1087,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c/cmake-build-debug"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c/cmake-build-debug"
 		},
 		{
-			"name" : "C_PLUS_IS_TOP_LEVEL",
+			"name" : "learn-c_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1102,7 +1102,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "C_PLUS_SOURCE_DIR",
+			"name" : "learn-c_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c"
 		},
 		{
 			"name" : "learn_c_BINARY_DIR",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c/cmake-build-debug"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c/cmake-build-debug"
 		},
 		{
 			"name" : "learn_c_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/gaozhe/CLionProjects/learn_c"
+			"value" : "/Users/gaozhe/CLionProjects/learn-c"
 		}
 	],
 	"kind" : "cache",
