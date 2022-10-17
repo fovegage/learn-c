@@ -78,12 +78,6 @@ build CMakeFiles/C_PLUS.dir/main.cpp.o: CXX_COMPILER__C_PLUS_Debug /Users/gaozhe
   OBJECT_DIR = CMakeFiles/C_PLUS.dir
   OBJECT_FILE_DIR = CMakeFiles/C_PLUS.dir
 
-build CMakeFiles/C_PLUS.dir/leetcode/l_1374.cpp.o: CXX_COMPILER__C_PLUS_Debug /Users/gaozhe/CLionProjects/learn-c/leetcode/l_1374.cpp || cmake_object_order_depends_target_C_PLUS
-  DEP_FILE = CMakeFiles/C_PLUS.dir/leetcode/l_1374.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
-  OBJECT_DIR = CMakeFiles/C_PLUS.dir
-  OBJECT_FILE_DIR = CMakeFiles/C_PLUS.dir/leetcode
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_PLUS
@@ -92,7 +86,7 @@ build CMakeFiles/C_PLUS.dir/leetcode/l_1374.cpp.o: CXX_COMPILER__C_PLUS_Debug /U
 #############################################
 # Link the executable C_PLUS
 
-build C_PLUS: CXX_EXECUTABLE_LINKER__C_PLUS_Debug CMakeFiles/C_PLUS.dir/main.cpp.o CMakeFiles/C_PLUS.dir/leetcode/l_1374.cpp.o
+build C_PLUS: CXX_EXECUTABLE_LINKER__C_PLUS_Debug CMakeFiles/C_PLUS.dir/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/C_PLUS.dir
   POST_BUILD = :

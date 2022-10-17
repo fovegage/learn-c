@@ -38,3 +38,8 @@ https://zhuanlan.zhihu.com/p/455686605
 # 汇编简介
 https://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html
 ```
+
+```
+# 静态链接库概念
+https://www.cnblogs.com/52php/p/5681711.html
+```
